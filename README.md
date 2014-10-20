@@ -1,4 +1,4 @@
 criminon
 ========
 
-taptapmobile.github.io/criminon
+http://taptapmobile.github.io/criminon
