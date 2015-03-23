@@ -1,6 +1,6 @@
 narconon
 ========
 
-repo & site for lp.​drug-education.co.uk
+repo & site for lp.criminon.co.uk
 
 repo: http://taptapmobile.github.io/criminon_uk
